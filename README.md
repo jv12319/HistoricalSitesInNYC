@@ -3,7 +3,7 @@
 
 Submitted by: Joseph Vargas
 
-This web app: **insert description**
+This web app: provides users with 10 cards displaying the ten best historical sites to visit in New York City. I accomplished this by utilizing react to create a card component that recieves props and populates each card with a description, title, button and location.
 
 Time spent: **X** hours spent in total
 
@@ -11,17 +11,17 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
+- [x] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
+I added hovering features over each card and button. I also provided links to websites that provide more information on each site.
+* [x] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
@@ -32,7 +32,7 @@ Here's a walkthrough of implemented required features:
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -41,7 +41,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+I found  the formatting with regards to the css the most difficult. I struggled making sure every card was properly formatted and displayed nicely.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
