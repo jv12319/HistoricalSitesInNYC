@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='"C:\Users\joey1\OneDrive\Desktop\web102project1.gif"' />
+<img src='"C:\Users\joey1\OneDrive\Desktop\web102project1.gif"' width='120'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
