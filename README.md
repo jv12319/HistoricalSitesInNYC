@@ -26,7 +26,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<img src="https://raw.githubusercontent.com/jv12319/HistoricalSitesInNYC/main/web102project1.gif" width="120" />
+![GIF](https://github.com/jv12319/HistoricalSitesInNYC/raw/main/web102project1Gif.gif)
+
 
 
 
