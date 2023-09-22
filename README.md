@@ -3,9 +3,9 @@
 
 Submitted by: Joseph Vargas
 
-This web app: provides users with 10 cards displaying the ten best historical sites to visit in New York City. I accomplished this by utilizing react to create a card component that recieves props and populates each card with a description, title, button and location.
+This web app: provides users with 10 cards displaying the ten best historical sites to visit in New York City. I accomplished this by utilizing React to create a card component that recieves props and populates each card with a description, title, button and location.
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
@@ -43,7 +43,7 @@ GIF created with ...  ScreenToGif
 ## Notes
 
 Describe any challenges encountered while building the app.
-I found  the formatting with regards to the css the most difficult. I struggled making sure every card was properly formatted and displayed nicely.
+I found  the formatting with regards to the CSS, the most difficult. I struggled making sure every card was properly formatted and displayed nicely.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
