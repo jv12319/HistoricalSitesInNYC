@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='"web102project1Gif.gif"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='"web102project1Gif.gif"' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
