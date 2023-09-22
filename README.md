@@ -20,8 +20,10 @@ The following **optional** features are implemented:
 - [ ] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
-I added hovering features over each card and button. I also provided links to websites that provide more information on each site.
+
 * [x] List anything else that you added to improve the site's functionality!
+I added hovering features over each card and button.
+I also provided links to websites that provide more information on each site.
 
 ## Video Walkthrough
 
